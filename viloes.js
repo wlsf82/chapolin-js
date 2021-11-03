@@ -3,5 +3,9 @@ module.exports = [
   'Poucas Trancas',
   'Rasga Bucho',
   'Racha Cuca',
-  'Bruna Varatuxa'
+  'Bruna Varatuxa',
+  'Butina',
+  'Karateka Simpato Yamazaki',
+  'Pansov',
+  'Pirata Alma Negra'
 ]

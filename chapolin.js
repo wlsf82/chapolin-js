@@ -6,6 +6,8 @@ const noticias = require('./noticias')
 const liquidos = require('./liquidos')
 const naoViloes = require('./naoViloes')
 const objetos = require('./objetos')
+const ditosPopulares = require('./ditosPopulares')
+const palavrasMagicas = require('./palavrasMagicas')
 
 function coisasAleatoriasDoMundoChapolin() {
   console.log('Mais rápido que uma tartaruga.')
@@ -15,13 +17,17 @@ function coisasAleatoriasDoMundoChapolin() {
   console.log('CHAPOLIN!')
 
   console.log('Vejamos alguns dados aleatórios do mundo Chapolin.')
-  console.log(`Vilão: ${dadoAleatorio(viloes)}`)
-  console.log(`Episódio perdido: ${dadoAleatorio(episodiosPerdidos)}`)
-  console.log(`Frase clássica: ${dadoAleatorio(frasesClassicas)}`)
-  console.log(`Notícia: ${dadoAleatorio(noticias)}`)
-  console.log(`Líquido: ${dadoAleatorio(liquidos)}`)
-  console.log(`Personagem não-vilão: ${dadoAleatorio(naoViloes)}`)
-  console.log(`Objeto: ${dadoAleatorio(objetos)}`)
+  setTimeout(() => {
+    console.log(`Vilão: ${dadoAleatorio(viloes)}`)
+    console.log(`Episódio perdido: ${dadoAleatorio(episodiosPerdidos)}`)
+    console.log(`Frase clássica: ${dadoAleatorio(frasesClassicas)}`)
+    console.log(`Notícia: ${dadoAleatorio(noticias)}`)
+    console.log(`Líquido: ${dadoAleatorio(liquidos)}`)
+    console.log(`Personagem não-vilão: ${dadoAleatorio(naoViloes)}`)
+    console.log(`Objeto: ${dadoAleatorio(objetos)}`)
+    console.log(`Ditados populares: ${dadoAleatorio(ditosPopulares)}`)
+    console.log(`Palavras mágicas: ${dadoAleatorio(palavrasMagicas)}`)
+  }, 2000)
 }
 
 coisasAleatoriasDoMundoChapolin()

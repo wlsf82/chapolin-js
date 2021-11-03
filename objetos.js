@@ -3,5 +3,6 @@ module.exports = [
   'Marreta biônica',
   'Pílola de nanicolina',
   'Buzina paralizadora',
-  'Caderninho de anotações'
+  'Caderninho de anotações',
+  'Chirrin chirrion do diabo'
 ]
