@@ -35,5 +35,6 @@ function coisasAleatoriasDoMundoChapolin() {
     console.log(`Ditado popular: ${dadoAleatorio(ditosPopulares)}`)
     console.log(`Palavra mágica: ${dadoAleatorio(palavrasMagicas)}`)
     console.log(`Apelido: ${dadoAleatorio(apelidos)}`)
+    console.log('')
   }, 2000)
 }
