@@ -16,7 +16,7 @@ function coisasAleatoriasDoMundoChapolin() {
   console.log('Vejamos alguns dados aleatórios do mundo Chapolin.')
   console.log(`Vilão: ${vilao()}`)
   console.log(`Episódio perdido: ${episodioPerdido()}`)
-  console.log(`Frase clásica: ${fraseClassica()}`)
+  console.log(`Frase clássica: ${fraseClassica()}`)
   console.log(`Notícia: ${noticia()}`)
   console.log(`Líquido: ${liquido()}`)
   console.log(`Personagem não-vilão: ${naoVilao()}`)
