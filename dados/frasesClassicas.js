@@ -4,5 +4,6 @@ module.exports = [
   'Todos os meus movimentos são friamente calculados',
   'Minhas anteninhas de vinil estão detectando a presença do inimigo',
   'Mãos de cobra! Digo... mãos à obra',
-  'Se aproveitam de minha nobreza'
+  'Se aproveitam de minha nobreza',
+  'Calma calma, não priemos cânico'
 ]

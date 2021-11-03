@@ -10,6 +10,7 @@ const objetos = require('./dados/objetos')
 const ditosPopulares = require('./dados/ditosPopulares')
 const palavrasMagicas = require('./dados/palavrasMagicas')
 const apelidos = require('./dados/apelidos')
+const anuncios = require('./dados/anuncios')
 
 coisasAleatoriasDoMundoChapolin()
 
@@ -35,6 +36,7 @@ function coisasAleatoriasDoMundoChapolin() {
     console.log(`Ditado popular: ${dadoAleatorio(ditosPopulares)}`)
     console.log(`Palavra mágica: ${dadoAleatorio(palavrasMagicas)}`)
     console.log(`Apelido: ${dadoAleatorio(apelidos)}`)
+    console.log(`Anúncio: ${dadoAleatorio(anuncios)}`)
     console.log('')
   }, 2000)
 }

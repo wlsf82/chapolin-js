@@ -1,4 +1,5 @@
 module.exports = [
   'Vermelinho',
-  'Polegar'
+  'Polegar',
+  'Polegar Vermelho'
 ]
