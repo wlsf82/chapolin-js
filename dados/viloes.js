@@ -7,5 +7,8 @@ module.exports = [
   'Butina',
   'Karateka Simpato Yamazaki',
   'Pansov',
-  'Pirata Alma Negra'
+  'Pirata Alma Negra',
+  'Quase Nada',
+  'Nenê',
+  'Tripa Seca'
 ]

@@ -3,5 +3,6 @@ module.exports = [
   'Chimpandolfo',
   'Professor Baratinha',
   'Bebê Jupiteriano',
-  'Mr. Sam'
+  'Mr. Sam',
+  'Kid Fidel (boxeador)'
 ]

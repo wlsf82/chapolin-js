@@ -9,6 +9,7 @@ const naoViloes = require('./dados/naoViloes')
 const objetos = require('./dados/objetos')
 const ditosPopulares = require('./dados/ditosPopulares')
 const palavrasMagicas = require('./dados/palavrasMagicas')
+const apelidos = require('./dados/apelidos')
 
 coisasAleatoriasDoMundoChapolin()
 
@@ -31,7 +32,8 @@ function coisasAleatoriasDoMundoChapolin() {
     console.log(`Líquido: ${dadoAleatorio(liquidos)}`)
     console.log(`Personagem não-vilão: ${dadoAleatorio(naoViloes)}`)
     console.log(`Objeto: ${dadoAleatorio(objetos)}`)
-    console.log(`Ditados populares: ${dadoAleatorio(ditosPopulares)}`)
-    console.log(`Palavras mágicas: ${dadoAleatorio(palavrasMagicas)}`)
+    console.log(`Ditado popular: ${dadoAleatorio(ditosPopulares)}`)
+    console.log(`Palavra mágica: ${dadoAleatorio(palavrasMagicas)}`)
+    console.log(`Apelido: ${dadoAleatorio(apelidos)}`)
   }, 2000)
 }
