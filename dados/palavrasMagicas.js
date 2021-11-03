@@ -1,4 +1,4 @@
 module.exports = [
-  'chirrin chirrion',
-  'parangaricutirimirruaro'
+  'Chirrin chirrion',
+  'Parangaricutirimirruaro'
 ]
