@@ -10,6 +10,8 @@ const objetos = require('./dados/objetos')
 const ditosPopulares = require('./dados/ditosPopulares')
 const palavrasMagicas = require('./dados/palavrasMagicas')
 
+coisasAleatoriasDoMundoChapolin()
+
 function coisasAleatoriasDoMundoChapolin() {
   console.log('')
   console.log('Mais rápido que uma tartaruga.')
@@ -33,5 +35,3 @@ function coisasAleatoriasDoMundoChapolin() {
     console.log(`Palavras mágicas: ${dadoAleatorio(palavrasMagicas)}`)
   }, 2000)
 }
-
-coisasAleatoriasDoMundoChapolin()
