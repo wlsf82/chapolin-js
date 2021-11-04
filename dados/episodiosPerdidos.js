@@ -5,6 +5,5 @@ module.exports = [
   'O homem das cavernas',
   'As três loucas',
   'A fantástica história de Sansão',
-  'Recuperando o documento perdido',
-  'HHH, HHH, HHH, HHH, HHH AGAGAGA'
+  'Recuperando o documento perdido'
 ]
