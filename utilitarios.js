@@ -1,9 +1,4 @@
-function numeroAleatorio(array) {
-  return Math.floor(Math.random() * array.length)
+module.exports = function(array) {
+  const indice = Math.floor(Math.random() * array.length)
+  return array[indice]
 }
-
-function dadoAleatorio(array) {
-  return array[numeroAleatorio(array)]
-}
-
-module.exports = { dadoAleatorio }

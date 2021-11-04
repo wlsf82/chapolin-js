@@ -1,4 +1,4 @@
-const { dadoAleatorio } = require('./utilitarios')
+const dadoAleatorio = require('./utilitarios')
 
 const viloes = require('./dados/viloes')
 const episodiosPerdidos = require('./dados/episodiosPerdidos')
