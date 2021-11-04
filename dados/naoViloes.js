@@ -4,5 +4,9 @@ module.exports = [
   'Professor Baratinha',
   'Bebê Jupiteriano',
   'Mr. Sam',
-  'Kid Fidel (boxeador)'
+  'Kid Fidel (boxeador)',
+  'Guilherme Tell',
+  'Frederic Chopin',
+  'Dr. Fausto',
+  'Dr. Chapatin'
 ]

@@ -4,11 +4,15 @@ module.exports = [
   'Rasga Bucho',
   'Racha Cuca',
   'Bruna Varatuxa',
-  'Butina',
-  'Karateka Simpato Yamazaki',
+  'Botina',
+  'Honorável Karateka Simpato Yamazaki',
   'Pansov',
   'Pirata Alma Negra',
   'Quase Nada',
   'Nenê',
-  'Tripa Seca'
+  'Tripa Seca',
+  'O Bandido Mata Fácil',
+  'Almôndega',
+  'Porca Solta',
+  'Tonhão'
 ]

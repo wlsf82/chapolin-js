@@ -4,5 +4,7 @@ module.exports = [
   'Pílola de nanicolina',
   'Buzina paralizadora',
   'Caderninho de anotações',
-  'Chirrin chirrion do diabo'
+  'Chirrin chirrion do Diabo',
+  'Medidor de luz',
+  'Gongo'
 ]
