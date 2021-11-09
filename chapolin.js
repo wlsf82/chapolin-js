@@ -16,6 +16,8 @@ const palavrasOuFrasesAleatorias = require('./dados/palavrasOuFrasesAleatorias')
 coisasAleatoriasDoMundoChapolin()
 
 function coisasAleatoriasDoMundoChapolin() {
+  const DOIS_SEGUNDOS_EM_MS = 2000
+
   console.log('')
   console.log('Mais rápido que uma tartaruga.')
   console.log('Mais forte que um rato.')
@@ -27,8 +29,8 @@ function coisasAleatoriasDoMundoChapolin() {
     console.log('')
     setTimeout(() => {
       console.log('Vejamos alguns dados aleatórios do mundo Chaves e Chapolin.')
-      console.log('')
       setTimeout(() => {
+        console.log('')
         console.log(`Vilão: ${pegaDadoAleatorio(viloes)}`)
         console.log(`Episódio perdido: ${pegaDadoAleatorio(episodiosPerdidos)}`)
         console.log(`Frase clássica: ${pegaDadoAleatorio(frasesClassicas)}`)
@@ -42,7 +44,11 @@ function coisasAleatoriasDoMundoChapolin() {
         console.log(`Anúncio: ${pegaDadoAleatorio(anuncios)}`)
         console.log(`Palavra ou frase aleatória: ${pegaDadoAleatorio(palavrasOuFrasesAleatorias)}`)
         console.log('')
-      }, 2000)
-    }, 2000)
-  }, 2000)
+        setTimeout(() => {
+          console.log(pegaDadoAleatorio())
+          console.log('')
+        }, DOIS_SEGUNDOS_EM_MS)
+      }, DOIS_SEGUNDOS_EM_MS)
+    }, DOIS_SEGUNDOS_EM_MS)
+  }, DOIS_SEGUNDOS_EM_MS)
 }
