@@ -4,5 +4,6 @@ module.exports = [
   'Watchatcha',
   'HHH, HHH, HHH, HHH, HHH AGAGAGA',
   'Time is money, oh yeah!',
-  'Oh, e agora, quem poderá me ajudar?'
+  'Oh, e agora, quem poderá me ajudar?',
+  'Oh, e agora, quem poderá me consolar?'
 ]
