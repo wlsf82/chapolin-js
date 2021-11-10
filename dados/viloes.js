@@ -5,7 +5,7 @@ module.exports = [
   'Racha Cuca',
   'Bruna Varatuxa',
   'Botina',
-  'Honorável Karateka Simpato Yamazaki',
+  'Rosa a Rumorosa',
   'Pansov',
   'Pirata Alma Negra',
   'Quase Nada',
