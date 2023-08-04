@@ -3,7 +3,7 @@ module.exports = [
   'Poucas Trancas',
   'Rasga Bucho',
   'Racha Cuca',
-  'Bruna Varatuxa',
+  'Bruxa Varatuxa',
   'Botina',
   'Rosa a Rumorosa',
   'Pansov',
