@@ -10,5 +10,6 @@ module.exports = [
   'Dr. Fausto',
   'Dr. Chapatin',
   'Honorável Karateka Simpato Yamazaki',
-  'Conde Terra Nova'
+  'Conde Terra Nova',
+  'Pépe'
 ]
