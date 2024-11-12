@@ -14,5 +14,6 @@ module.exports = [
   'O Bandido Mata Fácil',
   'Almôndega',
   'Porca Solta',
-  'Tonhão'
+  'Tonhão',
+  'O Pistoleiro Veloz'
 ]
