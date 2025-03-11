@@ -4,6 +4,7 @@ module.exports = [
   'Tribo Discoteca',
   'O homem das cavernas',
   'As três loucas',
+  'Os três loucos',
   'A fantástica história de Sansão',
   'Recuperando o documento perdido'
 ]
