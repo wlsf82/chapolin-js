@@ -3,5 +3,19 @@ module.exports = [
   'Mais vale um pássaro na mão do que mal acompanhado',
   'Crie uma cobra e eu te direi quem és',
   'Quem ri por último é quem demora mais pra entender a piada',
-  'Gato escaldado não se olha os dentes'
+  'Gato escaldado não se olha os dentes',
+  'Para entender o francês necessito de três coisas: que falem devagar, em voz alta e em português',
+  'Por que foi morrer justamente quando estava vivo?',
+  'Nunca abuse de um homem caído, afinal, ele pode se levantar',
+  'Desistir é para os fracos. Faça como eu, nem tente',
+  'Sei que você sempre saiu na rua com essa cara, o que demonstra uma coisa… você é muito valente!',
+  'Nunca cometo um erro duas vezes. Cometo umas 5, só pra ter certeza',
+  'Se ele ousar dizer uma só palavra… É porque ele tem um vocabulário bem limitado',
+  'Se ele ousar por um pé nessa casa… é porque ele é perneta',
+  'Ele rico, eu pobre. Ele era inquieto, eu tranquilo. Ele era preguiçoso, eu estudioso. Eu era Pacífico, ele Atlântico',
+  'Já inventaram algo que dá pra atravessar as paredes. A Porta!',
+  'Alguma vez já te disseram que você é bonita? Não. Já imaginava',
+  'Não poderei comemorar meu aniversário em setembro este ano. Porque nasci em março',
+  'Chapolin, por que você está desamarrando a corda de olhos fechados? Porque deram um nó cego!',
+  'Não prefere uma soda, Chapolin? Prefiro uma coisa menos cáustica'
 ]
