@@ -8,5 +8,6 @@ module.exports = [
   'Calma calma, não priemos cânico',
   'Vou fulmina-lo a golpes com minha marreta biônica',
   'Era exatamente o que eu ía dizer',
-  'Pépe, ja tirei a vela'
+  'Pépe, ja tirei a vela',
+  'Suspeitei desde o princípio'
 ]
