@@ -1,4 +1,5 @@
 module.exports = [
+  'Celina',
   'Chinezinho',
   'Poucas Trancas',
   'Rasga Bucho',
