@@ -9,7 +9,7 @@ module.exports = [
   'Frederic Chopin',
   'Dr. Fausto',
   'Dr. Chapatin',
-  'Honorável Karateka Simpato Yamazaki',
+  'Honorável Karateka Simpato Amazaki',
   'Conde Terra Nova',
   'Pépe'
 ]
