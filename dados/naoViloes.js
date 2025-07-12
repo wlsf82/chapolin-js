@@ -12,5 +12,6 @@ module.exports = [
   'Honorável Kassamba Urinawa',
   'Honorável Karateka Simpato Amazaki',
   'Conde Terra Nova',
-  'Pépe'
+  'Pépe',
+  'Seu Trocadeiro'
 ]
