@@ -13,5 +13,6 @@ module.exports = [
   'Honorável Karateka Simpato Amazaki',
   'Conde Terra Nova',
   'Pépe',
-  'Seu Trocadeiro'
+  'Seu Trocadeiro',
+  'Pança Louca',
 ]
