@@ -39,7 +39,7 @@ function coisasAleatoriasDoMundoChapolin() {
         console.log(`Personagem não-vilão: ${pegaDadoAleatorio(naoViloes)}`)
         console.log(`Objeto: ${pegaDadoAleatorio(objetos)}`)
         console.log(`Ditado popular: ${pegaDadoAleatorio(ditosPopulares)}`)
-        console.log(`Palavra mágina ou cabalística: ${pegaDadoAleatorio(palavrasMagicas)}`)
+        console.log(`Palavra mágica ou cabalística: ${pegaDadoAleatorio(palavrasMagicas)}`)
         console.log(`Apelido: ${pegaDadoAleatorio(apelidos)}`)
         console.log(`Anúncio: ${pegaDadoAleatorio(anuncios)}`)
         console.log(`Palavra ou frase aleatória: ${pegaDadoAleatorio(palavrasOuFrasesAleatorias)}`)
