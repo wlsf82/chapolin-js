@@ -16,4 +16,5 @@ module.exports = [
   'Seu Trocadeiro',
   'Pança Louca',
   'Lagoa Seca',
+  'Búfalo Bill',
 ]
