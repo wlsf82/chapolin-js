@@ -18,5 +18,5 @@ module.exports = [
   'Pança Louca',
   'Lagoa Seca',
   'Búfalo Bill',
-  'Professor Inventil',
+  'Professor Inventildo',
 ]
